@@ -1,7 +1,7 @@
 package bson_test
 
 import (
-	"github.com/globalsign/mgo/bson"
+	"github.com/initial-commit-hq/mgo/bson"
 
 	"reflect"
 	"strings"
